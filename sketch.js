@@ -67,18 +67,6 @@ function draw() {
        q = Math.round(random(1,10));
        w = 50*q;
 
-  // displaying score for each division
-  //d1 = text("  500  ",10,510);
-  //d2 = text("  500  ",90,510);
-  //d3 = text("  500  ",170,510);
-  //d4 = text("  100  ",250,510);
-  //d5 = text("  100  ",340,510);
-  //d6 = text("  100  ",410,510);
-  //d7 = text("  300  ",490,510);
-  //d8 = text("  300  ",570,510);
-  //d9 = text("  300  ",650,510);
-  //d10 = text("  300",730,510);
-
   // displaying ground
   ground.display();
 
